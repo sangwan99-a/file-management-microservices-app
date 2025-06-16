@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://E://.idea/E.iml" filepath="E://.idea/E.iml" />
+      <module fileurl="file://E:/backend/auth-service/auth-service.iml" filepath="E:/backend/auth-service/auth-service.iml" />
+      <module fileurl="file://E:/backend/config-service/config-service.iml" filepath="E:/backend/config-service/config-service.iml" />
+      <module fileurl="file://E:/backend/eureka-service/eureka-service.iml" filepath="E:/backend/eureka-service/eureka-service.iml" />
+      <module fileurl="file://E:/backend/file-service/file-service.iml" filepath="E:/backend/file-service/file-service.iml" />
+      <module fileurl="file://E:/backend/gateway-service/gateway-service.iml" filepath="E:/backend/gateway-service/gateway-service.iml" />
+      <module fileurl="file://E:/backend/notification-service/notification-service.iml" filepath="E:/backend/notification-service/notification-service.iml" />
+      <module fileurl="file://E:/backend/search-service/search-service.iml" filepath="E:/backend/search-service/search-service.iml" />
+    </modules>
+  </component>
+</project>
