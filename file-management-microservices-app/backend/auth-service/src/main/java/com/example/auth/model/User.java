@@ -15,8 +15,10 @@ public class User {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
-    // Assuming email should be unique, you might add @Column(unique=true)
+    @javax.persistence.Column(unique = true, nullable = false)
     private String email;
+
+    @javax.persistence.Column(nullable = false)
     private String password;
 
     // Constructors
